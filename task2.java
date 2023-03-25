@@ -30,7 +30,7 @@ public class task2 {
             br.close();
         }
         catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("ERROR!");
         }
     }
 }
